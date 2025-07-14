@@ -1,10 +1,5 @@
 # Build a Fullstack AI Chatbot with Redis, React, FastAPI and GPT
 
-- Featured on FreeCodeCamp: https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/
-- Article Wiki: https://github.com/stephensanwo/fullstack-ai-chatbot/wiki
-- Follow Full Series: https://blog.stephensanwo.dev/series/build-ai-chatbot
-- Subscribe to new technical tutorials: https://blog.stephensanwo.dev
-
 
 <hr/>
 
